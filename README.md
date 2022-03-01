@@ -12,5 +12,5 @@ A primitive base converter written in rust for ceng214 homework
 git clone https://github.com/cemkagank/base_converter
 cd base_converter
 cargo build --release
-sudo cp base_cconverter /usr/bin
+sudo cp target/release/base_cconverter /usr/bin
 ```
